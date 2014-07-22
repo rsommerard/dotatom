@@ -1,0 +1,27 @@
+'editor':
+  'fontSize': 12
+  'showIndentGuide': true
+  'showInvisibles': true
+  'invisibles':
+    'eol': ''
+  'softWrap': true
+  'softWrapAtPreferredLineLength': true
+'core':
+  'themes': [
+    'atom-light-ui'
+    'atom-light-syntax'
+  ]
+  'disabledPackages': [
+    'autocomplete'
+  ]
+'exception-reporting':
+  'userId': 'c1599d13-de83-5dfc-3726-30644b236c01'
+'release-notes':
+  'viewedVersion': '0.95.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '9814afe4079cc1643fd2994b9a2ed7d85f7d54a8'
+'whitespace':
+  'removeTrailingWhitespace': true
+'tree-view': {}

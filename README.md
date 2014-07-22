@@ -1,0 +1,4 @@
+dotatom
+=======
+
+Atom config files
